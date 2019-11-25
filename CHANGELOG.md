@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/automl?activeTab=versions
 
+## [1.10.0](https://www.github.com/googleapis/nodejs-automl/compare/v1.9.2...v1.10.0) (2019-11-25)
+
+
+### Features
+
+* support resource definitions ([#282](https://www.github.com/googleapis/nodejs-automl/issues/282)) ([439b440](https://www.github.com/googleapis/nodejs-automl/commit/439b440a709d4fba35f3c8fcf297bb20af7dd9d5))
+
 ### [1.9.2](https://www.github.com/googleapis/nodejs-automl/compare/v1.9.1...v1.9.2) (2019-11-18)
 
 
